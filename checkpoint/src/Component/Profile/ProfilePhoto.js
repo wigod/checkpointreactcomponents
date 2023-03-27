@@ -4,8 +4,8 @@ import './style.css';
 function ProfilePhoto(){
     return(
         <>
-            <div className='boxPhoto'>
-                <h3>PHOTO DE PROFILE</h3>
+            <h4>PHOTO DE PROFIL</h4>
+            <div className='boxPhoto'>                
                 <img src='pat.jpg' alt=''className='photoProfile'/>
             </div>
             
